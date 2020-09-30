@@ -23,3 +23,5 @@
 hs_err_pid*
 /Servlets/EjemploHttpSession/target/
 /Servlets/EjemploCarritoCompras/target/
+/JSPs/DeclaracionesJSP/target/
+/Servlets/DocumnetosJSP/target/
